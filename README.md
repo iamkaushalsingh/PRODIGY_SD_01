@@ -3,13 +3,13 @@
 
 ### Overview
 
-This program converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The user is prompted to input a temperature value and the original unit of measurement. The program then converts the temperature to the other two units and displays the converted values.
+This program provides a straightforward method for converting temperatures between the Celsius, Fahrenheit, and Kelvin scales. Users input a temperature value along with its unit of measurement, and the program computes and displays the corresponding values in the other two units.
 
 ### Features
 
-- Convert temperature from Celsius to Fahrenheit and Kelvin.
-- Convert temperature from Fahrenheit to Celsius and Kelvin.
-- Convert temperature from Kelvin to Celsius and Fahrenheit.
+- Celsius to Fahrenheit and Kelvin: Converts a given Celsius temperature to both Fahrenheit and Kelvin.
+- Fahrenheit to Celsius and Kelvin: Converts a given Fahrenheit temperature to both Celsius and Kelvin.
+- Kelvin to Celsius and Fahrenheit: Converts a given Kelvin temperature to both Celsius and Fahrenheit.
 
 ### Usage
 
